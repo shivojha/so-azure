@@ -25,4 +25,4 @@ Secure and compliant resource deployments at scale.
 
 ## 🧠 Author
 
-**shivojha** – Principal Engineer | Azure Architect
+**shivojha** – Principal Engineer | Azure Architect - Data|AI
