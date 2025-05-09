@@ -1,2 +1,2 @@
 # so-azure
-All Azure related concepts and hands on code
+All Azure related concepts and hands on code.
